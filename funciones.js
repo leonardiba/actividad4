@@ -1,0 +1,60 @@
+$(".linea1").css("color","blue")
+$(".evento1").click(function(){
+$(".evento1").css("color","black")
+})
+$(".linea2").css("color","red")
+$(".evento2").click(function(){
+$(".evento2").css("font-size","30px")
+})
+$(".linea3").css("color","green")
+$(".evento3").click(function(){
+$(".evento3").css("font-size","30px")
+})
+$(".linea4").css("color","purple")
+$(".evento4").click(function(){
+$(".evento4").css("font-size","30px")
+})
+$(".linea5").css("color","orange")
+$(".evento5").click(function(){
+$(".evento5").css("font-size","30px")
+})
+$(".linea6").css("color","yelow")
+$(".evento6").click(function(){
+$(".evento6").css("font-size","30px")
+})
+$(".linea7").css("color","pink")
+$(".evento7").click(function(){
+$(".evento7").css("background","green")
+})
+$(".linea8").css("color","blue")
+$(".evento8").click(function(){
+$(".evento8").css("font-size","30px")
+})
+$(".linea9").css("color","blue")
+$(".evento9").click(function(){
+$(".evento9").css("font-size","30px")
+})
+$(".linea10").css("color","blue")
+$(".evento10").click(function(){
+$(".evento10").css("font-size","30px")
+})
+
+$(".CAJA1").mouseover(function(){
+    $(".CAJA1").css("background","blue")
+})
+$(".CAJA2").mouseover(function(){
+    $(".CAJA2").css("background","pink")
+})
+$(".CAJA3").mouseover(function(){
+    $(".CAJA3").css("background","orange")
+})
+
+$(".CAJA1").mouseout(function(){
+    $(".CAJA1").css("background","black")
+})
+$(".CAJA2").mouseover(function(){
+    $(".CAJA2").css("background","black")
+})
+$(".CAJA3").mouseover(function(){
+    $(".CAJA3").css("background","black")
+})

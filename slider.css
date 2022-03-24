@@ -1,0 +1,11 @@
+.slider{
+    margin-top: 18px;
+}
+.slider-portada{
+    width: 100%px;
+    height: 600px;
+    margin: auto;
+    padding: 0%;
+    list-style: none;
+    display: flex;
+}
